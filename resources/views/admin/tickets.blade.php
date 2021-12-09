@@ -66,7 +66,7 @@
 
                         <tr>
                           <td class="py-1">
-                           #{{$ticket->ref}}
+                           {{$ticket->ref}}
                           </td>
                           <td>
 

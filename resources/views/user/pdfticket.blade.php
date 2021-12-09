@@ -146,13 +146,14 @@
 								<td>
 									ISET CHARGUIA.<br />
 									CHARGUIA Road<br />
-									TUNISIA , 12345
+									TUNISIA , 12345 <br>
+									Contact us : info@.{{$websitename}}.com
+
 								</td>
 
 								<td>
 									FulName : {{$nameofsender}}.<br />
 									Email : {{$emailofsender}}<br />
-									info@.{{$websitename}}.com
 								</td>
 							</tr>
 						</table>
@@ -217,7 +218,7 @@
 					<td></td>
 
 					<td>Manager , <br>
-                    Mr Jhon ,
+                    Mr Nafkha ,
 
                     </td>
 				</tr>

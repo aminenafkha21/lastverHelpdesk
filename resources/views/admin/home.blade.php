@@ -92,7 +92,7 @@ $top5=TicketController::top5();
                       <div class="card-body">
                           <h4 class="card-title">Service Providers</h4>
                           <h4 class="text-dark font-weight-bold mb-2">{{$nbrtechnicien}}</h4>
-                          <p>Where {{$nbrtechniciendispo}} sont disponibles</p>
+                          <p>Where {{$nbrtechniciendispo}} are available</p>
 
                           <canvas id="customers"></canvas>
                       </div>

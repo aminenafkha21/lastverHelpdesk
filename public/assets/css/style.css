@@ -21593,13 +21593,16 @@ dl li {
 /* === Landing screens === */
 /* Auth */
 .auth .login-half-bg {
-  background: url("../images/auth/helpdesk.jpg");
+  background: url("../images/auth/helpdesk.png");
   background-size: cover;
+  background-position: 50% 75%;
+
 }
 
 .auth .register-half-bg {
-  background: url("../images/auth/helpdesk.jpg");
+  background: url("../images/auth/helpdesk.png");
   background-size: cover;
+  background-position: 50% 75%;
 }
 
 .auth.lock-full-bg {

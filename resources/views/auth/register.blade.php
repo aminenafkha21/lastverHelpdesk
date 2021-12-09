@@ -161,7 +161,7 @@
             </div>
           </div>
           <div class="col-lg-6 login-half-bg d-flex flex-row">
-            <p class="text-white font-weight-medium text-center flex-grow align-self-end">Copyright &copy; 2020  All rights reserved.</p>
+            <p class="text-white font-weight-medium text-center flex-grow align-self-end">Copyright &copy; 2021 Mastermind  All rights reserved.</p>
           </div>
         </div>
       </div>
